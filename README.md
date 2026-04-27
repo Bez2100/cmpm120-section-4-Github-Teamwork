@@ -4,6 +4,6 @@ This project is a section activity to use Github.
 Our favorite game is Firewatch.
 Beck: My favorite games are Hollow Knight and Terraria
 ## How to build section
-Learning how to build colloboration skills on Vscode and Github.
+This is where we'll show users how to build the project
 ## How to run
 Here's where we'll put how to run this project
