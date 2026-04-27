@@ -1,7 +1,7 @@
 ## About this project
 This project is a section activity to use Github.
 ## Our Favorite game
-Our favorite game is Hollow Knight.
+Beck: My favorite games are Hollow Knight and Terraria
 ## How to build section
 Learning how to build colloboration skills on Vscode and Github.
 ## How to run
